@@ -1,0 +1,40 @@
+# Gijon
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Cimentaciones](https://gijon.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Cimentaciones Superficiales](https://gijon.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/)
+- [Clasificacion Suelos](https://gijon.laboratoriomecanicadesuelos.org/clasificacion-suelos/)
+- [Compactacion Dinamica](https://gijon.laboratoriomecanicadesuelos.org/compactacion-dinamica/)
+- [Compresion Simple](https://gijon.laboratoriomecanicadesuelos.org/compresion-simple/)
+- [Corte Directo](https://gijon.laboratoriomecanicadesuelos.org/corte-directo/)
+- [Drenaje Vial](https://gijon.laboratoriomecanicadesuelos.org/drenaje-vial/)
+- [Ensayo Spt](https://gijon.laboratoriomecanicadesuelos.org/ensayo-spt/)
+- [Ensayos In Situ](https://gijon.laboratoriomecanicadesuelos.org/ensayos-in-situ/)
+- [Estabilidad Taludes](https://gijon.laboratoriomecanicadesuelos.org/estabilidad-taludes/)
+- [Estabilizacion Cal Cemento](https://gijon.laboratoriomecanicadesuelos.org/estabilizacion-cal-cemento/)
+- [Estudio Mecanica Suelos](https://gijon.laboratoriomecanicadesuelos.org/estudio-mecanica-suelos/)
+- [Excavaciones Profundas](https://gijon.laboratoriomecanicadesuelos.org/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://gijon.laboratoriomecanicadesuelos.org/excavaciones-subterraneas/)
+- [Exploracion](https://gijon.laboratoriomecanicadesuelos.org/exploracion/)
+- [Falla Taludes](https://gijon.laboratoriomecanicadesuelos.org/falla-taludes/)
+- [Geotecnia Vial](https://gijon.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Granulometria](https://gijon.laboratoriomecanicadesuelos.org/granulometria/)
+- [Instrumentacion Geotecnica](https://gijon.laboratoriomecanicadesuelos.org/instrumentacion-geotecnica/)
+- [Laboratorio](https://gijon.laboratoriomecanicadesuelos.org/laboratorio/)
+- [Mejoramiento](https://gijon.laboratoriomecanicadesuelos.org/mejoramiento/)
+- [Muros Contencion](https://gijon.laboratoriomecanicadesuelos.org/muros-contencion/)
+- [Muros Pantalla](https://gijon.laboratoriomecanicadesuelos.org/muros-pantalla/)
+- [Pavimento Rigido](https://gijon.laboratoriomecanicadesuelos.org/pavimento-rigido/)
+- [Pilotes Friccion Punta](https://gijon.laboratoriomecanicadesuelos.org/pilotes-friccion-punta/)
+- [Taludes Y Muros](https://gijon.laboratoriomecanicadesuelos.org/taludes-y-muros/)
+- [Veleta Campo](https://gijon.laboratoriomecanicadesuelos.org/veleta-campo/)
+- [Vibrocompactacion](https://gijon.laboratoriomecanicadesuelos.org/vibrocompactacion/)
+
+## Contact
+- Website: https://gijon.laboratoriomecanicadesuelos.org/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
